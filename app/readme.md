@@ -7,6 +7,10 @@
 Instala mi proyecto con: python -m pip install
 
 ```bash
+  cd rest-api-python
+```
+
+```bash
   cd app
 ```
 
